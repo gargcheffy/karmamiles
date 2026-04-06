@@ -32,7 +32,7 @@ export default function Footer() {
               </p>
               <p className="mt-3">
                 <a 
-                  href="https://wa.me/91 9205536806" 
+                  href="https://wa.me/919205536806" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-white/90 hover:text-[#E76F51] transition-colors"
