@@ -1,11 +1,10 @@
-import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import HighlightsBar from "../components/HighlightsBar";
 import ExperiencesSection from "../components/ExperienceSection";
 import HowItWorks from "../components/HowItWorks";
 import Testimonials from "../components/Testimonials";
 import WhoItsFor from "../components/WhoItsFor";
-import Footer from "../components/Footer";
+
 
 export default function Home() {
   return (
