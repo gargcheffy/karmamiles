@@ -197,6 +197,7 @@ export default function Outings() {
             isOpen={isModalOpen}
             onClose={() => setIsModalOpen(false)}
             defaultExperience="Day Outings"
+            Category="DayOutings"
         />
     </main>
   );

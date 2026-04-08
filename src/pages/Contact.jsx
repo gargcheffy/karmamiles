@@ -118,6 +118,7 @@ export default function Contact() {
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         defaultExperience="Contact Us"
+        Category="ContactUs"
       />
 
     </main>

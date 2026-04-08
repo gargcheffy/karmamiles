@@ -113,6 +113,7 @@ export default function About() {
             isOpen={isModalOpen}
             onClose={() => setIsModalOpen(false)}
             defaultExperience="Contact Us"
+            Category="ContactUs"
         />
       
 

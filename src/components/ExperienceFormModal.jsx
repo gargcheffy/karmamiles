@@ -22,7 +22,7 @@ const SHEET_URL = process.env.REACT_APP_GOOGLE_SHEET_URL;
 
 const EMPTY_FORM = { name: "", city: "", phone: "", interest: "" };
 
-export function ExperienceFormModal({ isOpen, onClose, defaultExperience = "" }) {
+export function ExperienceFormModal({ isOpen, onClose, defaultExperience = "", Category = "" }) {
   const [form, setForm]         = useState(EMPTY_FORM);
   const [submitted, setSubmitted] = useState(false);
   const [loading, setLoading]   = useState(false);
@@ -82,7 +82,8 @@ export function ExperienceFormModal({ isOpen, onClose, defaultExperience = "" })
           name:       form.name,
           city:       form.city,
           phone:      "+91 " + form.phone,   // ← prefix added only on submit
-          experience: defaultExperience,
+          category:   Category,
+          experience: defaultExperience,    
           interest:   form.interest,
         }),
       });

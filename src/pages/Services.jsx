@@ -102,6 +102,7 @@ export default function Services() {
             isOpen={isModalOpen}
             onClose={() => setIsModalOpen(false)}
             defaultExperience="Karma Event Services"
+            Category="EventServices"
         />
       
 

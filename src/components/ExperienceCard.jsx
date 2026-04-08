@@ -52,6 +52,7 @@ export default function ExperienceCard({ image, tagline, title, description, but
         isOpen={open}
         onClose={() => setOpen(false)}
         defaultExperience={title}
+        Category={title}
       />
       </>
 
