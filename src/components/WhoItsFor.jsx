@@ -32,7 +32,7 @@ export default function WhoItsFor() {
         <div className="flex flex-col items-center text-center mb-12">
        
           <h2 className="text-2xl md:text-4xl font-bold text-[#2C2C2C] tracking-tight leading-tight">
-            Who It's For
+            Who is it For
           </h2>
           <div className="w-14 h-[2px] bg-[#fe8800] rounded-full mt-5" />
         </div>

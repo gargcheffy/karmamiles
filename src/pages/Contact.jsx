@@ -71,10 +71,10 @@ export default function Contact() {
                 <div>
                   <h3 className="text-lg font-semibold text-[#2C2C2C] mb-1">Email</h3>
                   <a
-                    href="mailto:karmamilesexperiences@gmail.com"
+                    href="mailto:events@karmamiles.in"
                     className="text-base text-[#6B5B52] hover:text-[#fe8800] transition-colors duration-200"
                   >
-                    karmamilesexperiences@gmail.com
+                    events@karmamiles.in
                   </a>
                 </div>
               </div>

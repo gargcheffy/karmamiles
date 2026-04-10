@@ -12,10 +12,10 @@ const EXPERIENCES = [
   },
   {
     image: "/assets/dayOutings.svg",
-    tagline: "Small Trips,Big Smiles",
+    tagline: "Small Trips, Big Smiles",
     title: "Day Outings",
     description:
-      "Curated, comfortable outings designed for bonding, joy and effortless memories — perfect for families and groups.",
+      "Curated, comfortable outings designed for bonding, joy and effortless memories - perfect for families and groups.",
     buttonText: "Discover Outings",
     showbutton:true,
   },
@@ -33,7 +33,7 @@ const EXPERIENCES = [
     tagline: "Elevate Any Celebration",
     title: "Karma Event Services",
     description:
-      "Bhajan mandalis, musicians, pandits, anchors, photographers and more — handpicked services to make any event special.",
+      "Bhajan mandalis, musicians, pandits, anchors, photographers and more - handpicked services to make any event special.",
     buttonText: "Explore Services",
     showbutton:true,
   },
@@ -53,7 +53,7 @@ export default function ExperiencesSection() {
             Our Experiences
           </h1>
           <p className="text-lg text-[#2C2C2C]/80">
-          Curated with heart for every milestone, every gathering, every memory.
+          Thoughtfully curated for every milestone, every gathering, every memory.
         </p>
         </div>
 

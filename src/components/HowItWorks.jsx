@@ -4,9 +4,9 @@ const STEPS = [
   {
     icon: ClipboardList,
     step: "01",
-    title: "Tell us what you're planning",
+    title: "Tell us what you are planning",
     description:
-      "Share your celebration idea, outing preference, or event vision — we listen to every detail.",
+      "Share your celebration idea, outing preference, or event vision — We listen to every detail.",
   },
   {
     icon: Sparkles,

@@ -26,8 +26,8 @@ export default function Footer() {
                 </a>
               </p>
               <p className="text-white/70">
-                <a href="mailto:karmamilesexperiences@gmail.com" className="hover:text-[#E76F51] transition-colors">
-                  karmamilesexperiences@gmail.com
+                <a href="mailto:events@karmamiles.in" className="hover:text-[#E76F51] transition-colors">
+                  events@karmamiles.in
                 </a>
               </p>
               <p className="mt-3">
@@ -103,7 +103,7 @@ export default function Footer() {
               </li>
             </ul>
             <p className="text-white/50 text-xs mt-6 italic">
-              Serving NCR currently
+              Currently serving NCR
             </p>
           </div>
 

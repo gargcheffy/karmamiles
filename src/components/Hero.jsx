@@ -31,12 +31,13 @@ export default function Hero() {
         <div className="w-16 h-[2px] bg-[#fe8800] rounded-full mb-6" />
 
         {/* Subtext */}
-        <p className="text-lg md:text-xl text-white/80 font-light leading-relaxed max-w-2xl mb-10">
-          From heartfelt family celebrations to joyful outings and soulful mehfils,
-          KarmaMiles creates meaningful experiences for you and your loved ones.
-        </p>
+          <p className="text-lg md:text-xl text-white/80 font-light leading-relaxed max-w-2xl mb-10">
+            From heartfelt family celebrations to joyful outings and soulful mehfils,
+            <br />
+            Karma Miles creates meaningful experiences for you and your loved ones.
+          </p>
 
-        {/* CTA Button */}
+          {/* CTA Button */}
         <a
           href="#experiences"
           className="inline-block  bg-[#fe8800]  hover:bg-[#f89626] text-white text-sm font-medium uppercase tracking-widest px-8 py-4 rounded-sm transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-[#fe8800]/30"

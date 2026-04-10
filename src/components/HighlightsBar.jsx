@@ -7,11 +7,11 @@ const TRUST_ITEMS = [
   },
   {
     icon: Sparkles,
-    text: "Elder-friendly curated experiences",
+    text: "Elder-first curated experiences",
   },
   {
     icon: ClipboardCheck,
-    text: "Free support for your Event planning",
+    text: "Free support for your event planning",
   },
 ];
 
